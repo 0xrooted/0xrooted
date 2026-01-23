@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm 0xrooted 👋</h1>
-
+<h1 align="center">
+	<a href=""><strong>Hey! I'm Root</strong></a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1> 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=DFIR+%7C+Cybersecurity+Enthusiast;Linux+Logs+%7C+Network+Analysis;Building+Practical+Security+Projects&center=true&width=500&height=45">
 </p>
