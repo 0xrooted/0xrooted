@@ -2,63 +2,50 @@
 	<a href=""><strong>Hey! I'm Root</strong></a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1> 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=DFIR+%7C+Cybersecurity+Enthusiast;Linux+Logs+%7C+Network+Analysis;Building+Practical+Security+Projects&center=true&width=500&height=45">
+<h3 align="center"> SOC | DFIR | Log Analysis | Threat Detection</h3>
+
+---
+
+## 🔍 Security Log Investigation & Detection
+
+- Investigating authentication logs to identify intrusion attempts and brute-force behaviour
+- Analyzing web server logs to uncover attack patterns and malicious requests
+- Building hash-based detection to monitor unauthorized file modifications
+
+---
+
+## 🚀 Featured Projects
+
+🔸 [Web Attack Log Detector](https://github.com/0xrooted/web-attack-log-detector)  
+Detects SQLi, XSS, Path Traversal and malicious patterns from web server logs.
+
+🔸 [Linux Auth Log Analyzer](https://github.com/0xrooted/linux-auth-log-analyzer)  
+Analyzes authentication logs to detect brute force attempts and suspicious logins.
+
+🔸 [File Integrity Monitor](https://github.com/0xrooted/file-integrity-monitor)  
+Monitors file changes using hash comparison to detect tampering.
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode" />
+  <img src="https://raw.githubusercontent.com/sduff/awesome-splunk/master/splunk.jpg" height="55" alt="Splunk"/>
+  <img src="https://github.com/CrowdStrike.png?size=200" height="55" alt="CrowdStrike"/>
+  <img src= "https://img.icons8.com/?size=100&id=YztviYmQLfhl&format=png&color=000000" height="55" alt="Mircorsoft Defender for Endpoint"/>
 </p>
 
 ---
 
-## 🛡️ About Me
-- Focused on **Digital Forensics & Incident Response (DFIR)**
-- Interested in **log analysis, network traffic analysis, and incident investigation**
-- Building **practical security tools** using Python and Linux
-- Documenting my learning through real-world labs and projects
+## 📚 Currently Practicing
+
+- DFIR labs and artifact analysis
+- SIEM log investigation scenarios
+- Web attack detection techniques
 
 ---
 
-## 🧰 Technical Skills
-- **Languages:** Python, Bash
-- **Security Tools:** Wireshark, Burp Suite, Linux CLI
-- **Domains:** DFIR, Log Analysis, Network Forensics
-- **Other:** Git, Markdown
+## 🎯 Looking for
 
----
-
-## 🔨 Featured Projects
-- **Linux Auth Log Analyzer**  
-  Python tool to analyze Linux authentication logs and identify suspicious login activity.
-
-- **DFIR Journal**  
-  Structured notes, labs, and scripts documenting my DFIR learning journey.
-
-- **PortSwigger Labs**  
-  Practical web security labs with clear explanations and takeaways.
-
----
-
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xrooted&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xrooted&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🎯 Current Focus
-- Linux & authentication log analysis
-- Network traffic analysis using Wireshark
-- Building DFIR-focused automation scripts
-
----
-
-## 📫 Connect
-- GitHub: https://github.com/0xrooted
-
----
-
-<p align="center">
-  <i>Building quietly. Learning deeply. Improving daily.</i>
-</p>
+SOC Analyst | DFIR Internship | Security Analyst Roles
