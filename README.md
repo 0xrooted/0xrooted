@@ -17,8 +17,9 @@ Building hands-on blue-team & DFIR projects aligned with real-world SOC workflow
 
 - Security Log Analysis & Incident Investigation  
 - Brute-force, Web Attack & Suspicious Activity Detection  
-- Python-based Security Automation & Parsing  
-- SIEM Exposure: Splunk
+- Python-based Security Automation & Parsing
+- Network Traffic Analysis (Wireshark) 
+- SIEM Monitoring  & Alert Anaysis (Splunk)
 - Familiar with EDR concepts & workflows (Microsoft Defender, Crowdstrike)
 
 ---
@@ -40,7 +41,8 @@ Monitors file changes using hash comparison to detect tampering.
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode" />
-  <img src="https://raw.githubusercontent.com/sduff/awesome-splunk/master/splunk.jpg" height="55" alt="Splunk"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/960px-Wireshark_icon_new.png?20230509085415" height="55" alt="Wireshark"/>
+<img src="https://raw.githubusercontent.com/sduff/awesome-splunk/master/splunk.jpg" height="55" alt="Splunk"/>
 </p>
 
 ---
