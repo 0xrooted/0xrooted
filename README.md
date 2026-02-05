@@ -2,15 +2,23 @@
 	<a href=""><strong>Hey! I'm Root</strong></a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1> 
-<h3 align="center"> SOC | DFIR | Log Analysis | Threat Detection</h3>
+<h3 align="center"> SOC | DFIR | Threat Detection</h3>
 
 ---
 
-## 🔍 Security Log Investigation & Detection
+## 🛡️ Security Analyst (DFIR-focused) | Python | Linux | SIEM 
 
-- Investigating authentication logs to identify intrusion attempts and brute-force behaviour
-- Analyzing web server logs to uncover attack patterns and malicious requests
-- Building hash-based detection to monitor unauthorized file modifications
+Focused on detecting attacks, analyzing logs, and investigating security incidents across Linux and web environments.  
+Building hands-on blue-team & DFIR projects aligned with real-world SOC workflows and threat detection.
+
+---
+
+## 🔍Core Focus
+
+- Security Log Analysis & Incident Investigation  
+- Brute-force, Web Attack & Suspicious Activity Detection  
+- Python-based Security Automation & Parsing  
+- SIEM & EDR Exposure (Splunk, Defender, CrowdStrike)
 
 ---
 
