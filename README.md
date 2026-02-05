@@ -18,7 +18,8 @@ Building hands-on blue-team & DFIR projects aligned with real-world SOC workflow
 - Security Log Analysis & Incident Investigation  
 - Brute-force, Web Attack & Suspicious Activity Detection  
 - Python-based Security Automation & Parsing  
-- SIEM & EDR Exposure (Splunk, Defender, CrowdStrike)
+- SIEM Exposure: Splunk
+- Familiar with EDR concepts & workflows (Microsoft Defender, Crowdstrike)
 
 ---
 
@@ -40,9 +41,11 @@ Monitors file changes using hash comparison to detect tampering.
 <p align="left">
 <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode" />
   <img src="https://raw.githubusercontent.com/sduff/awesome-splunk/master/splunk.jpg" height="55" alt="Splunk"/>
-  <img src="https://github.com/CrowdStrike.png?size=200" height="55" alt="CrowdStrike"/>
-  <img src= "https://img.icons8.com/?size=100&id=YztviYmQLfhl&format=png&color=000000" height="55" alt="Mircorsoft Defender for Endpoint"/>
 </p>
+
+---
+
+🧠 Currently learning and exploring EDR tools and workflows (Microsoft Defender, CrowdStrike)
 
 ---
 
