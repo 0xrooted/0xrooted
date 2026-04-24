@@ -26,13 +26,13 @@ Building hands-on blue-team & DFIR projects aligned with real-world SOC workflow
 
 ## 🚀 Featured Projects
 
-🔸 [Web Attack Log Detector](https://github.com/0xrooted/web-attack-log-detector)  
+🔸 [Web Attack Log Detector](https://github.com/0xrooted/labs/web-attack-log-detector)  
 Detects SQLi, XSS, Path Traversal and malicious patterns from web server logs.
 
-🔸 [Linux Auth Log Analyzer](https://github.com/0xrooted/linux-auth-log-analyzer)  
+🔸 [Linux Auth Log Analyzer](https://github.com/0xrooted/labs/linux-auth-log-analyzer)  
 Analyzes authentication logs to detect brute force attempts and suspicious logins.
 
-🔸 [File Integrity Monitor](https://github.com/0xrooted/file-integrity-monitor)  
+🔸 [File Integrity Monitor](https://github.com/0xrooted/labs/file-integrity-monitor)  
 Monitors file changes using hash comparison to detect tampering.
 
 ---
