@@ -26,6 +26,9 @@ Building hands-on blue-team & DFIR projects aligned with real-world SOC workflow
 
 ## 🚀 Featured Projects
 
+🔸 [SOC Home Lab](https://github.com/0xrooted/labs/soc-home-lab)  
+Simulates real-world attacks and performs log-based threat detection using SIEM.
+
 🔸 [Web Attack Log Detector](https://github.com/0xrooted/labs/web-attack-log-detector)  
 Detects SQLi, XSS, Path Traversal and malicious patterns from web server logs.
 
