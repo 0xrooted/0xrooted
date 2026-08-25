@@ -6,37 +6,29 @@
 
 ---
 
-## 🛡️ Security Analyst (DFIR-focused) | Python | Linux | SIEM 
+## 🛡️ Cybersecurity Analyst (DFIR-focused) | Python | Linux | SIEM 
 
-Focused on detecting attacks, analyzing logs, and investigating security incidents across Linux and web environments.  
-Building hands-on blue-team & DFIR projects aligned with real-world SOC workflows and threat detection.
-
----
-
-## 🔍Core Focus
-
-- Security Log Analysis & Incident Investigation  
-- Brute-force, Web Attack & Suspicious Activity Detection  
-- Python-based Security Automation & Parsing
-- Network Traffic Analysis (Wireshark) 
-- SIEM Monitoring  & Alert Anaysis (Splunk)
-- Familiar with EDR concepts & workflows (Microsoft Defender, Crowdstrike)
+Focused on detecting attacks, analyzing logs, and investigating security incidents across Linux and web environments.
+<br>
+Building hands-on blue-team & DFIR projects aligned with real-world SOC workflows and threat detection with a strong background in software engineering, backend architecture, and cloud workflows. Focused on threat detection, SIEM log analysis, and building modular security automations..
 
 ---
 
-## 🚀 Featured Projects
+## 🔍Core Focus & Security Capabilities 
+* **Security Operations (SOC):** Alert Triage, Incident Analysis, MITRE ATT&CK Mapping, Phishing & Endpoint Forensics.
+* **SIEM & Monitoring:** Splunk Enterprise, Sysmon, Windows/Linux Event Logging.
+* **Security Engineering & Scripting:** Python automation for threat analysis, log parsing, and File Integrity Monitoring (FIM).
+* **System & Cloud Architecture:** Backend systems, Identity & Access Management (IAM), and secure SDLC practices.
 
-🔸 [SOC Home Lab](https://github.com/0xrooted/labs/tree/main/soc-home-lab)  
-Simulates real-world attacks and performs log-based threat detection using SIEM.
+---
 
-🔸 [Web Attack Log Detector](https://github.com/0xrooted/labs/tree/main/web-attack-log-detector)  
-Detects SQLi, XSS, Path Traversal and malicious patterns from web server logs.
+### 📂 Featured Repositories
 
-🔸 [Linux Auth Log Analyzer](https://github.com/0xrooted/labs/tree/main/linux-auth-log-analyzer)  
-Analyzes authentication logs to detect brute force attempts and suspicious logins.
-
-🔸 [File Integrity Monitor](https://github.com/0xrooted/labs/tree/main/file-integrity-monitor)  
-Monitors file changes using hash comparison to detect tampering.
+| Repository | Focus Area | Description |
+| :--- | :--- | :--- |
+| [**Splunk-Sysmon-Detection-Lab**](https://github.com/0xUpanshu/Splunk-Sysmon-Detection-Lab) | Threat Detection & SIEM | Windows telemetry ingestion, custom SPL queries, and MITRE-aligned detection rules. |
+| [**SOC-Incident-Investigations**](https://github.com/0xUpanshu/SOC-Incident-Investigations) | Incident Triage & Analysis | Casebook of triage reports covering phishing, web attacks (SQLi/RCE), and host telemetry. |
+| [**Python-Security-Automations**](https://github.com/0xUpanshu/Python-Security-Automations) | Security Tooling & Scripting | Modular CLI tools for auth log parsing, cryptographic FIM, and web attack pattern detection. |
 
 ---
 
